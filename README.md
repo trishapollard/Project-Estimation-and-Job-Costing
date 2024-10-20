@@ -1,6 +1,6 @@
 ## Optimizing Construction Job Costing: Boosting Profitability Through the Builder's Feedback Loop
 
-#Key Definitions:
+**Key Definitions**:
 
 - **Job Costing**: An essential process that enables detailed financial tracking and budget management in construction projects.
 - **Builders Feedback Loop**: A cyclical process of bid, build, measure, and improve, that helps contractors refine cost estimates and improve project management.
