@@ -34,7 +34,7 @@ This guide will explore the key concepts and practical steps to master project e
 
 ## Timesheets and Labor Costs
 
-See repository for tracking timesheets and labor costs.
+For inputting, tracking, and calculating timesheets and labor costs, please refer to the Timesheets and Labor Costs repository. This repository will provide tools and templates to streamline your tracking processes.
 
 ## Contribution
 
