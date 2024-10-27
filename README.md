@@ -32,13 +32,14 @@ Welcome to the guide on optimizing project estimation and job costing! This repo
 
 This guide will explore the key concepts and practical steps to master project estimation and job costing, leveraging the builder's feedback loop to optimize processes and outcomes.
 
+## Timesheets and Labor Costs
+
+See repository for tracking timesheets and labor costs.
+
 ## Contribution
 
 Contributions are welcome! If you have insights or improvements to share, please feel free to submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
